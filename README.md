@@ -1,6 +1,6 @@
 # ea_3
 
-A new Flutter project.
+EA3_Personal Business Card
 
 ## Getting Started
 
